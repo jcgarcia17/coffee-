@@ -1,0 +1,7 @@
+Day = 'Monday'
+play 'c G/G/ AG z' 
+say 'Good Morning! It is time to wake up'
+if Day is 'Monday' 
+  say 'You have to go to school today'
+else 
+  say 'Good bye!'
